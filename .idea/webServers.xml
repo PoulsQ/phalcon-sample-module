@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b8d4d468-9bdc-413d-8cda-994a71deff09" name="climbr.io" url="http://project0101.ico-prod.com">
+        <fileTransfer host="project0101.ico-prod.com" port="22" rootFolder="/home/project" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
